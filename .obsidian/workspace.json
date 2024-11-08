@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "d10411dfb2a97f68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-11-08.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-08"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "39af64fb61fa0440",
@@ -109,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "2024-11-08.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +134,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks para Welcome"
+              "title": "Backlinks para 2024-11-08"
             }
           },
           {
@@ -128,12 +143,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "2024-11-08.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links externos de Welcome"
+              "title": "Links externos de 2024-11-08"
             }
           },
           {
@@ -155,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "2024-11-08.md"
               },
               "icon": "lucide-list",
-              "title": "Índice de Welcome"
+              "title": "Índice de 2024-11-08"
             }
           }
         ]
@@ -175,11 +190,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Abrir nota de hoje": false,
       "templates:Inserir templates": false,
-      "command-palette:Abrir paleta de comando": false
+      "command-palette:Abrir paleta de comando": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "84ad711428283990",
+  "active": "d10411dfb2a97f68",
   "lastOpenFiles": [
-    "Welcome.md"
+    "teste.md",
+    "2024-11-08.md",
+    "teste",
+    "Welcome.md",
+    "netlify.toml"
   ]
 }
